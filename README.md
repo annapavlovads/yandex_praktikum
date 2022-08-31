@@ -7,7 +7,7 @@
 
 ### Содержание: / Content:
 
-1. Подготовка данных для анализа https://github.com/annapavlovads/yandex_praktikum/blob/main/1_data_preprocessing/1_data_preprocessing.ipynb
+[1. Подготовка данных для анализа](https://github.com/annapavlovads/yandex_praktikum/blob/main/1_data_preprocessing/1_data_preprocessing.ipynb)
 2. Исследовательский анализ данных
 3. Статистический анализ данных
 4. Сборный проект по подготовке и исследованию данных: исследование рынка компьютерных игр
