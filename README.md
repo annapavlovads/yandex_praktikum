@@ -24,7 +24,6 @@
 [Вариант 1: предсказание оттока клиента телеком-компании](https://github.com/annapavlovads/yandex_praktikum/blob/main/14_1_final_project_telecom/YandexDiploma_first_variant_telecom.ipynb )<br>
 [Вариант 2: предсказание температуры плавления стали](https://github.com/annapavlovads/yandex_praktikum/blob/main/14_2_final_project_steel/YandexDiploma%20_steel.ipynb)<br>
 
-**Цель:**\
-Необходимо построить модель, способную определять возраст людей по фотографиям.\
-**Используемые инструменты:**\
-Pandas, Matplotlib, numpy
+|№| Название | Общая информация | Стек технологий |
+|:---|:-------------------|:----------------------------------------------------------|:-----------:|
+|15  |[(Дипломный проект) Прогнозирование оттока клиентов оператора связи](15_graduate_project_telecom_customer_churn/15_graduate_project_telecom_customer_churn.ipynb)|Необходимо научиться с высокой точностью прогнозировать отток клиентов телеком-оператора. Это позволит своевременно предложить промокоды и бонусы и сохранить клиента.|`catboost` `sklearn` `seaborn` `matplotlib` `plotly` `pandas` `numpy` `math`|
