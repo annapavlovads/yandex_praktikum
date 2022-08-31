@@ -6,7 +6,10 @@
 
 
 ### Содержание: / Content:
-[1. Подготовка данных для анализа](https://github.com/annapavlovads/yandex_praktikum/blob/main/1_data_preprocessing/1_data_preprocessing.ipynb)<br>
+|№| Название | Общая информация | Стек технологий |
+|:---|:-------------------|:----------------------------------------------------------|:-----------:|
+|1  |[Подготовка данных для анализа](https://github.com/annapavlovads/yandex_praktikum/blob/main/1_data_preprocessing/1_data_preprocessing.ipynb)<br> | Нужно разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок. Результаты исследования будут учтены при построении модели кредитного скоринга — специальной системы, которая оценивает способность потенциального заёмщика вернуть кредит банку. |`seaborn` `matplotlib` `plotly` `pandas` `numpy` `Jupyter Notebook`|
+
 [2. Исследовательский анализ данных](https://github.com/annapavlovads/yandex_praktikum/blob/main/2_data_exploration/2_data_exploration_revised.ipynb)<br>
 [3. Статистический анализ данных](https://github.com/annapavlovads/yandex_praktikum/blob/main/3_statistical_data_analysis/3_statistical_data_analysis.ipynb)<br>
 [4. Сборный проект по подготовке и исследованию данных: исследование рынка компьютерных игр](https://github.com/annapavlovads/yandex_praktikum/blob/main/4_game_investigation/4_game_investigation.ipynb)<br>
