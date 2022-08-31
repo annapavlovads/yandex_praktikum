@@ -10,4 +10,4 @@
 
 Использованы: 
 - Jupyter Notebook
-- библиотеки python: pandas, numpy, seaborn, matplotlib, scipy, scikit-learn, nltk
+- библиотеки python: pandas, numpy, seaborn, matplotlib, scipy, scikit-learn
