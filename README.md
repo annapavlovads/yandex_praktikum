@@ -6,8 +6,7 @@
 
 
 ### Содержание: / Content:
-
-[1. Подготовка данных для анализа](https://github.com/annapavlovads/yandex_praktikum/blob/main/1_data_preprocessing/1_data_preprocessing.ipynb)<div>
+[1. Подготовка данных для анализа](https://github.com/annapavlovads/yandex_praktikum/blob/main/1_data_preprocessing/1_data_preprocessing.ipynb)
 [2. Исследовательский анализ данных](https://github.com/annapavlovads/yandex_praktikum/blob/main/2_data_exploration/2_data_exploration_revised.ipynb)<div>
 [3. Статистический анализ данных](https://github.com/annapavlovads/yandex_praktikum/blob/main/3_statistical_data_analysis/3_statistical_data_analysis.ipynb)<div>
 [4. Сборный проект по подготовке и исследованию данных: исследование рынка компьютерных игр](https://github.com/annapavlovads/yandex_praktikum/blob/main/4_game_investigation/4_game_investigation.ipynb)<div>
@@ -21,6 +20,6 @@
 [12. Обработка текстовых данных: классификация комментариев](https://github.com/annapavlovads/yandex_praktikum/blob/main/12_text/12_text.ipynb )<div>
 [13. Работа с нейронной сетью resnet](https://github.com/annapavlovads/yandex_praktikum/tree/main/13_resnet)<div>
 
-#### Дипломный проект: <div>
-[Вариант 1: предсказание оттока клиента телеком-компании](https://github.com/annapavlovads/yandex_praktikum/blob/main/14_1_final_project_telecom/YandexDiploma_first_variant_telecom.ipynb )<div>
-[Вариант 2: предсказание температуры плавления стали](https://github.com/annapavlovads/yandex_praktikum/blob/main/14_2_final_project_steel/YandexDiploma%20_steel.ipynb)<div>
+#### Дипломный проект: 
+[Вариант 1: предсказание оттока клиента телеком-компании](https://github.com/annapavlovads/yandex_praktikum/blob/main/14_1_final_project_telecom/YandexDiploma_first_variant_telecom.ipynb )
+[Вариант 2: предсказание температуры плавления стали](https://github.com/annapavlovads/yandex_praktikum/blob/main/14_2_final_project_steel/YandexDiploma%20_steel.ipynb)
