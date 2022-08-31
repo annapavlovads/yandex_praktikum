@@ -23,3 +23,8 @@
 #### Дипломный проект: 
 [Вариант 1: предсказание оттока клиента телеком-компании](https://github.com/annapavlovads/yandex_praktikum/blob/main/14_1_final_project_telecom/YandexDiploma_first_variant_telecom.ipynb )<br>
 [Вариант 2: предсказание температуры плавления стали](https://github.com/annapavlovads/yandex_praktikum/blob/main/14_2_final_project_steel/YandexDiploma%20_steel.ipynb)<br>
+
+**Цель:**\
+Необходимо построить модель, способную определять возраст людей по фотографиям.\
+**Используемые инструменты:**\
+Pandas, Matplotlib, numpy
