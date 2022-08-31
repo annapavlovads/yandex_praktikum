@@ -21,5 +21,5 @@
 [13. Работа с нейронной сетью resnet](https://github.com/annapavlovads/yandex_praktikum/tree/main/13_resnet)<div>
 
 #### Дипломный проект: 
-[Вариант 1: предсказание оттока клиента телеком-компании](https://github.com/annapavlovads/yandex_praktikum/blob/main/14_1_final_project_telecom/YandexDiploma_first_variant_telecom.ipynb )
+[Вариант 1: предсказание оттока клиента телеком-компании](https://github.com/annapavlovads/yandex_praktikum/blob/main/14_1_final_project_telecom/YandexDiploma_first_variant_telecom.ipynb )<br>
 [Вариант 2: предсказание температуры плавления стали](https://github.com/annapavlovads/yandex_praktikum/blob/main/14_2_final_project_steel/YandexDiploma%20_steel.ipynb)
