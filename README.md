@@ -8,19 +8,19 @@
 ### Содержание: / Content:
 
 [1. Подготовка данных для анализа](https://github.com/annapavlovads/yandex_praktikum/blob/main/1_data_preprocessing/1_data_preprocessing.ipynb)<div>
-2. Исследовательский анализ данных
-3. Статистический анализ данных
-4. Сборный проект по подготовке и исследованию данных: исследование рынка компьютерных игр
-5. Введение в машинное обучение: поиск подходящего тарифа для клиентов телеком-компании
-6. Предсказание оттока клиентов банка
-7. Поиск лучшего местоположения нефтяной скважины
-8. Модель для золотообрабатывающего предприятия
-9. Линейная алгебра: шифрование данных клиентов страховой компании
-10. Предсказание цены автомобилей с пробегом
-11. Временные ряды: прогнозирование заказов такси
-12. Обработка текстовых данных: классификация комментариев
-13. Работа с нейронной сетью resnet
+[2. Исследовательский анализ данных](https://github.com/annapavlovads/yandex_praktikum/blob/main/2_data_exploration/2_data_exploration_revised.ipynb)<div>
+[3. Статистический анализ данных](https://github.com/annapavlovads/yandex_praktikum/blob/main/3_statistical_data_analysis/3_statistical_data_analysis.ipynb)<div>
+[4. Сборный проект по подготовке и исследованию данных: исследование рынка компьютерных игр](https://github.com/annapavlovads/yandex_praktikum/blob/main/4_game_investigation/4_game_investigation.ipynb)<div>
+[5. Введение в машинное обучение: поиск подходящего тарифа для клиентов телеком-компании](https://github.com/annapavlovads/yandex_praktikum/blob/main/5_ml_introduction/5_ml_introduction.ipynb)<div>
+[6. Предсказание оттока клиентов банка](https://github.com/annapavlovads/yandex_praktikum/blob/main/6_bank_client_leaving_prediction/6_ml_bank_client_leaving_prediction.ipynb)<div>
+[7. Поиск лучшего местоположения нефтяной скважины](https://github.com/annapavlovads/yandex_praktikum/blob/main/7_lr_bootstrap_oil_model/7_lr_bootstrap_oil_model.ipynb)<div>
+[8. Модель для золотообрабатывающего предприятия](https://github.com/annapavlovads/yandex_praktikum/blob/main/8_gold_industry_model/8_gold_industry.ipynb )<div>
+[9. Линейная алгебра: шифрование данных клиентов страховой компании](https://github.com/annapavlovads/yandex_praktikum/blob/main/9_linear_algebra/9_linear_algebra.ipynb )<div>
+[10. Предсказание цены автомобилей с пробегом](https://github.com/annapavlovads/yandex_praktikum/blob/main/10_car_price_prediction/10_car_price_prediction.ipynb )<div>
+[11. Временные ряды: прогнозирование заказов такси](https://github.com/annapavlovads/yandex_praktikum/blob/main/11_time_series/11_time_series.ipynb )<div>
+[12. Обработка текстовых данных: классификация комментариев](https://github.com/annapavlovads/yandex_praktikum/blob/main/12_text/12_text.ipynb )<div>
+[13. Работа с нейронной сетью resnet](https://github.com/annapavlovads/yandex_praktikum/tree/main/13_resnet)<div>
 
-Дипломный проект: 
-- Вариант 1: предсказание оттока клиента телеком-компании
-- Вариант 2: предсказание температуры плавления стали 
+Дипломный проект: <div>
+[Вариант 1: предсказание оттока клиента телеком-компании](https://github.com/annapavlovads/yandex_praktikum/blob/main/14_1_final_project_telecom/YandexDiploma_first_variant_telecom.ipynb )<div>
+[Вариант 2: предсказание температуры плавления стали](https://github.com/annapavlovads/yandex_praktikum/blob/main/14_2_final_project_steel/YandexDiploma%20_steel.ipynb)<div>
